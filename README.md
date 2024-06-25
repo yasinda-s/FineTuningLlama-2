@@ -6,3 +6,5 @@ A single notebook to do the following:
 4. Load base LLM, and fine-tune.
 5. Save model and test with question in dataset.
 6. Reload model and merge it with LoRA weights and push to hugging face model hub for inferencing.
+
+Project Reference from https://github.com/krishnaik06, follow him for more interesting R&D work!
